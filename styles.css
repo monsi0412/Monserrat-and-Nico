@@ -49,19 +49,19 @@ body{
     text-shadow: 3px 3px 6px #f8f6f2;
 }
 #subtitle{
-    font-family: 'Open Sans', sans-serif;
+    ont-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 0;
     position: fixed;
     top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
-#probably{
-    font-family: 'Gentium Basic', serif;
-    position: fixed;
-    top: 75%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
+
 .course{
     border-color: white;
 }
@@ -89,7 +89,13 @@ h6{
 }
 .modalTrigger{
     color:#f8f6f2;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 0;
     float:right;
     opacity: 0.95;
     border:2px solid #C0C0C0;
