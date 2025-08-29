@@ -22,12 +22,25 @@ body{
 }
 #coursesTitle{
     font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 0;
     font-size:80px;
     text-align:center;
     text-shadow: 3px 3px 6px #f8f6f2;
 }
 #myName{
     font-family: "Fraunces", serif;
+      font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 0;
     font-size:50px;
     position: fixed;
     top: 60%;
