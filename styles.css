@@ -21,13 +21,13 @@ body{
     
 }
 #coursesTitle{
-    font-family: 'Parisienne', cursive;
+    font-family: "Fraunces", serif;
     font-size:80px;
     text-align:center;
-    text-shadow: 3px 3px 6px #EFC3CA;
+    text-shadow: 3px 3px 6px #f8f6f2;
 }
 #myName{
-    font-family: 'Parisienne', cursive;
+    font-family: "Fraunces", serif;
     font-size:50px;
     position: fixed;
     top: 60%;
