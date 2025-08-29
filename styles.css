@@ -23,7 +23,7 @@ body{
 #coursesTitle{
     font-family: "Fraunces", serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 100;
   font-style: normal;
   font-variation-settings:
     "SOFT" 0,
@@ -36,7 +36,7 @@ body{
     font-family: "Fraunces", serif;
       font-family: "Fraunces", serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 100;
   font-style: normal;
   font-variation-settings:
     "SOFT" 0,
@@ -51,7 +51,7 @@ body{
 #subtitle{
     ont-family: "Fraunces", serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 100;
   font-style: normal;
   font-variation-settings:
     "SOFT" 0,
@@ -85,7 +85,7 @@ h6{
 }
 .modal button{
     background-color: #f8f6f2;
-    color:white;
+    color:624a44;
 }
 .modalTrigger{
     color:#f8f6f2;
