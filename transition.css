@@ -54,7 +54,7 @@
 a.back {
     
     font-size: 20px;
-    color: #dfdfdf;
+    color: ##FFC0CB;
     text-decoration: none;
     text-align: center;
     width: 20%;
@@ -80,5 +80,5 @@ a.nextlink {
 
 a.mainlink:hover,
 a.nextlink:hover {
-    background: #82afd3;
+    background: ##FFC0CB;
 }
