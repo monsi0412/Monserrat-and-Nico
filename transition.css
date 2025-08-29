@@ -9,6 +9,13 @@
     margin: auto;
     display: none;
     background-color:#f8f6f2;
+    font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 0;
 }
 
 #next-page {
@@ -30,7 +37,6 @@
     position: absolute;
     bottom: 0;
     right: 0;
-    font-family: 'Open Sans', sans-serif;;
     font-size: 20px;
 }
 
@@ -46,7 +52,7 @@
 }
 
 a.back {
-    font-family: 'Open Sans', sans-serif;
+    
     font-size: 20px;
     color: #dfdfdf;
     text-decoration: none;
@@ -58,7 +64,7 @@ a.back {
 
 a.mainlink,
 a.nextlink {
-    font-family: 'Open Sans', sans-serif;
+    
     border: 3px solid white;
     padding: 15px 10px;
     display: block;
