@@ -1,1 +1,91 @@
+body{
+    color:white;
+}
+#coursesDiv{
+    background-color: #990000;
+}
+#shield{
+    height:300px;
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#logo{
+    display: block;
+    height:100px;
+    margin:20px auto 20px auto;
+}
+#footerRow{
+    background-color:#000f3a;
+    
+}
+#coursesTitle{
+    font-family: 'Parisienne', cursive;
+    font-size:80px;
+    text-align:center;
+    text-shadow: 3px 3px 6px #57000a;
+}
+#myName{
+    font-family: 'Parisienne', cursive;
+    font-size:80px;
+    position: fixed;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 3px 3px 6px #00081e;
+}
+#subtitle{
+    font-family: 'Open Sans', sans-serif;
+    position: fixed;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#probably{
+    font-family: 'Gentium Basic', serif;
+    position: fixed;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.course{
+    border-color: white;
+}
+.courseRow{
+    height:200px;
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+}
+h6{
+    font-family: 'Gentium Basic', serif;
+    font-size:18px;
 
+}
+.courseImg{
+    width:100px;
+}
+.modal{
+    color:#00144d;
+    font-family: 'Open Sans', sans-serif;
+}
+.modal button{
+    background-color: #00144d;
+    color:white;
+}
+.modalTrigger{
+    color:#00144d;
+    font-family: 'Open Sans', sans-serif;
+    float:right;
+    opacity: 0.95;
+    border:2px solid #C0C0C0;
+    text-shadow: 0.5px 0.5px 1px #000c2e;
+}
+.modal-title{
+    font-size:35px;
+}
+.modal-body{
+    font-size:18px;
+    text-align:justify;
+}
